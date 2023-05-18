@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a29383f3-62f2-437a-9b86-fb958f0c9f6e" name="Changes" comment="" />
+    <list default="true" id="a29383f3-62f2-437a-9b86-fb958f0c9f6e" name="Changes" comment="">
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/С/project file/app-uzum-market/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/С/project file/app-uzum-market/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$APPLICATION_HOME_DIR$/jbr/bin/С/project file/app-uzum-market" value="master" />
+      </map>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -18,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2Pxq6NTe5xPNr9uRlFjP7crTWnn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,6 +37,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -38,8 +52,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684408904612</updated>
-      <workItem from="1684408905989" duration="2000" />
+      <workItem from="1684408905989" duration="357000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
